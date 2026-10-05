@@ -218,8 +218,8 @@ Campus_Energy_Optimization/
 │
 ├── dataset/
 │   └── all_buildings_power.csv
-│
-├── campus_energy_analysis.py
+|── ChevuriTanmayi_ProjectReport.docx
+├── ChevuriTanmayi_Campus_Energy_Optimization.py
 ├── requirements.txt
 ├── README.md
 │
